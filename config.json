@@ -1,0 +1,17 @@
+{
+    "name": "Dickman: Dickman's Functional and Dysfunctional Impulsivity Survey",
+    "template":"survey",
+    "exp_id": "dickman-survey",
+    "cognitive_atlas_task_id": "trm_55a6a95f66508",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":2,
+    "reference": ["http://psycnet.apa.org/journals/psp/58/1/95.pdf"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
