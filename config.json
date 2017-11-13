@@ -2,6 +2,7 @@
     "name": "Dickman: Dickman's Functional and Dysfunctional Impulsivity Survey",
     "template":"survey",
     "exp_id": "dickman-survey",
+    "url": "https://github.com/expfactory-experiments/dickman-survey",
     "cognitive_atlas_task_id": "trm_55a6a95f66508",
     "contributors": [
              "Zeynep Enkavi",
